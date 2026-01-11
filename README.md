@@ -1,3 +1,5 @@
+*This code was written and uploaded when I was very young (not even in middle school yet). As a result, it is extremely unprofessional. I will keep it public for amusment, however it is not meant to be taken seriously in any way.*
+-------------------------------------------------------
 # end-of-the-world-text-game-windows-edition
 please consider the following before downloading. This program is compatible on windows only. It may be possible to install a compatibility layer on mac or linux, however we strongly do not recommend it.
 
